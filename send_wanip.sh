@@ -69,3 +69,4 @@ if [ $? = 0 ]; then
     echo "send email success!"
     echo $newwanip > $iptxt
 fi
+
